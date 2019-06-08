@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__
+.RData
+.Rhistory
+*.iml
+.idea/
+target/
+*log
